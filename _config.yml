@@ -1,7 +1,7 @@
 logo: # add logo name
-title: Jav - Enjoy Freedom
+title: onanion/jav
 description: > # this means to ignore newlines until "baseurl:"
-  Free streaming & download jav porn.
+  Free streaming & download.
 permalink: ':title/'
 baseurl: "/jav" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
